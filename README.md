@@ -9,7 +9,7 @@ Sovereign AI & Predictive Intelligence for Industrial Energy Optimization
 > 
 ## 🚀 Vision & Mission
 The YAHYA System is a Deep Tech AI platform engineered to translate the philosophical concepts of absolute justice and "Qist" (fairness in physical measure) into the digital and industrial realms.
-
+      
 In the modern era, algorithms dictate resource allocation, credit, and operational efficiency, often acting as "black boxes" that perpetuate waste and bias. YAHYA System re-introduces the Human-in-the-Loop (HITL) paradigm, ensuring that sovereignty remains with truth and humanity, not the code.
 
 ## 🔒 Sovereign IP & Legal Architecture
