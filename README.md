@@ -1,4 +1,5 @@
-# ⚖️ YAHYA-SYSTEM- (منظومة يَحْيَى)
+> 📄 **New: Read the official YAHYA x Google AI Studio Integration [here](./INTEGRATION.md)**
+ ⚖️ YAHYA-SYSTEM- (منظومة يَحْيَى)
 Sovereign AI & Predictive Intelligence for Industrial Energy Optimization
 
 ![IP_Status](https://img.shields.io/badge/IP_Status-Protected_YAHYA--IP--2026--X-success)
